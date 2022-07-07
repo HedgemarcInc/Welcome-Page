@@ -75,7 +75,12 @@ export function TopSection() {
       <Logo>rebanc Inc. </Logo>
       <Slogan>Building Something Great</Slogan>
       <Paragraph>
-      A great brand is a story that’s never completely told. A brand is a metaphorical story that connects with something very deep – a fundamental appreciation of mythology.
+      “A great brand is a story that’s never completely told. 
+      A brand is a metaphorical story that connects with something very deep 
+      a fundamental appreciation of mythology. Stories create the emotional 
+      context people need to locate themselves in a larger experience.”
+                             'Scott Bedbury'.
+    
       </Paragraph>
       <DonateButton>Please Visit our Linkedin Page 
         for more Updates</DonateButton> 
