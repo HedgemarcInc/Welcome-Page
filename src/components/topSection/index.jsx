@@ -72,15 +72,13 @@ const MadeBy = styled.h3`
 export function TopSection() {
   return (
     <TopSectionContainer>
-      <Logo>Global Warming</Logo>
-      <Slogan>Keep it cool for safe living</Slogan>
+      <Logo>rebanc Inc. </Logo>
+      <Slogan>Building Something Great</Slogan>
       <Paragraph>
-        You can help us cool off our world and have it go back to it's best
-        state ever by donating to help fix our only world and our beloved EARTH!
-        Be cool and let the earth be cool. Let the ice burgs to live. Globe is
-        warming and will set to fire. Stop polluting, it will cost extra.
+      A great brand is a story that’s never completely told. A brand is a metaphorical story that connects with something very deep – a fundamental appreciation of mythology.
       </Paragraph>
-      <DonateButton>Donate</DonateButton>
+      <DonateButton>Please Visit our Linkedin Page 
+        for more Updates</DonateButton> 
       {/* <MadeBy>
         <u>Made By:</u> Islem Maboud
       </MadeBy> */}
